@@ -41,7 +41,7 @@ const DEPT_DATA: Record<TabId, {
     subtitle: 'ADST — Applied Design, Skills & Technology',
     accentColor: '#00D9FF',
     description:
-      'Discover cutting-edge student projects in 3D modelling, robotics, embedded systems, and software engineering. Our Computer Science program bridges creativity with technology.',
+      'Discover student\' projects in 3D modelling, BBC Micro:bit Microcontroller LED Traffic Light Systems. Our Computer Science program bridges creativity with technology.',
   },
   va: {
     images: visualArtsImages,
