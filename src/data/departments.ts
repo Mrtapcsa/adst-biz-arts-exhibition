@@ -45,8 +45,8 @@ export const computerScienceImages: GalleryImage[] = [
     id: 1,
     localSrc:    cs('01'),
     fallbackSrc: 'https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?w=800&q=80',
-    caption:     '3D Printing Dolphins in Aquarium',
-    subCaption:  'CS Student Project — Marine Life Simulation',
+    caption:     '3D Printing lab',
+    subCaption:  'CS Student 3D Projects',
   },
   {
     id: 2,
@@ -108,25 +108,46 @@ export const computerScienceImages: GalleryImage[] = [
     id: 10,
     localSrc:    cs('10'),
     fallbackSrc: 'https://images.unsplash.com/photo-1552581234-26160f608093?w=800&q=80',
-    caption:     'Visitor-4 Watching',
-    subCaption:  'Exhibition Gallery — Audience Engagement',
+    caption:     '3D Printing and Modeling',
+    subCaption:  '3D Printing Dolphins in Aquarium. Designed by Grade 10 Students @ MLIA-SZ',
   },
   {
     id: 11,
     localSrc:    cs('11'),
     fallbackSrc: 'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&q=80',
-    caption:     'Visitor-5 Watching',
-    subCaption:  'Exhibition Gallery — Audience Engagement',
+    caption:     '3D Printing and Modeling', '3D Print Dolphins in Aquarium. Designed by Grade 10 Students @ MLIA-SZ',
+    subCaption:  '3D Printing and Modeling',
   },
   {
     id: 12,
     localSrc:    cs('12'),
     fallbackSrc: 'https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=800&q=80',
-    caption:     'Visitor-6 Watching',
+    caption:     '3D Printing and Modeling',
+    subCaption:  'Exhibition Gallery — Audience Engagement',
+  },
+
+ {
+    id: 13,
+    localSrc:    cs('13'),
+    fallbackSrc: 'https://images.unsplash.com/photo-1552581234-26160f608093?w=800&q=80',
+    caption:     '3D Printing and Modeling',
+    subCaption:  '3D Printing Dolphins in Aquarium. Designed by Grade 10 Students @ MLIA-SZ',
+  },
+  {
+    id: 14,
+    localSrc:    cs('14'),
+    fallbackSrc: 'https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=800&q=80',
+    caption:     '3D Printing and Modeling', '3D Print Dolphins in Aquarium. Designed by Grade 10 Students @ MLIA-SZ',
+    subCaption:  '3D Printing and Modeling',
+  },
+  {
+    id: 15,
+    localSrc:    cs('15'),
+    fallbackSrc: 'https://images.unsplash.com/photo-1528605248644-14dd04022da1?w=800&q=80',
+    caption:     '3D Printing and Modeling',
     subCaption:  'Exhibition Gallery — Audience Engagement',
   },
 ];
-
 // ── Visual Arts (8 slots) ────────────────────────────────────
 export const visualArtsImages: GalleryImage[] = [
   {
