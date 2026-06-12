@@ -50,7 +50,7 @@ const DEPT_DATA: Record<TabId, {
     subtitle: 'Creative Expression & Contemporary Art',
     accentColor: '#D4AF37',
     description:
-      'Experience a breathtaking collection of student artworks spanning painting, mixed media, and contemporary installations. Visual Arts at MLIA cultivates the creative spirit.',
+      'Experience a collection of student artworks spanning painting, mixed media, and contemporary installations. Visual Arts at MLIA cultivates the creative spirit.',
   },
   biz: {
     images: businessImages,
